@@ -11,3 +11,6 @@ https://www.google.com/search?q=sudo+not+work+on+amazon+linux+ec2+instance&sxsrf
 https://www.youtube.com/watch?v=TFXlGD613Bw&t=122s
 
 https://www.niraltek.com/blog/how-to-deploy-angular-node-js-on-aws-ec2-instance/
+
+if apt-get not work then use
+https://www.youtube.com/watch?v=Nh6j1ufAMmg
