@@ -14,3 +14,7 @@ https://www.niraltek.com/blog/how-to-deploy-angular-node-js-on-aws-ec2-instance/
 
 instead doing all this stuff create ubanto instance
 
+Angular deployment
+https://www.youtube.com/watch?v=wlmRcOi1kaU
+https://m-rashid.medium.com/deploy-angular-project-on-aws-ec2-linux-instance-927f7eece5ff
+https://detasecure.com/blog/how-to-deploy-angular-app-in-aws-ec2-instance/     this is important
