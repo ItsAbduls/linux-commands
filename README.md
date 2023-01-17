@@ -18,3 +18,4 @@ Angular deployment
 https://www.youtube.com/watch?v=wlmRcOi1kaU
 https://m-rashid.medium.com/deploy-angular-project-on-aws-ec2-linux-instance-927f7eece5ff
 https://detasecure.com/blog/how-to-deploy-angular-app-in-aws-ec2-instance/     this is important
+https://www.freecodecamp.org/news/the-nginx-handbook/
