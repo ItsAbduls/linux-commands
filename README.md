@@ -27,4 +27,7 @@ then
 https://medium.com/@philip_lysenko/basic-web-security-with-angular-and-nginx-535fa5a2a866
 https://gist.github.com/darrenmothersele/3ea329307f56730920b5f19b1f53ff91
 
+Manual Deployment of Angular app to AWS EC2
+https://medium.com/globant/manual-deployment-of-angular-app-to-aws-ec2-b5cb5466bbfc?source=read_next_recirc---two_column_layout_sidebar------0---------------------33b88bc7_46f5_438b_b788_136e7725c74c-------
+
 
