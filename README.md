@@ -34,4 +34,7 @@ lets encrypt
 https://mindsers.blog/post/https-using-nginx-certbot-docker/
 https://medium.com/@agusnavce/nginx-server-with-ssl-certificates-with-lets-encrypt-in-docker-670caefc2e31
 
+https://www.bezkoder.com/docker-mern/
+https://dev.to/this-is-angular/multi-stage-docker-builds-with-angular-and-nginx-4j9d
+
 
