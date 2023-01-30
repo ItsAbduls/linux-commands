@@ -30,6 +30,11 @@ https://gist.github.com/darrenmothersele/3ea329307f56730920b5f19b1f53ff91
 Manual Deployment of Angular app to AWS EC2
 https://medium.com/globant/manual-deployment-of-angular-app-to-aws-ec2-b5cb5466bbfc?source=read_next_recirc---two_column_layout_sidebar------0---------------------33b88bc7_46f5_438b_b788_136e7725c74c-------
 
+
+Lets encrypt --------------------------------------------------------
+
+https://www.programonaut.com/setup-ssl-with-docker-nginx-and-lets-encrypt/
+----------------------------------------------
 lets encrypt
 https://mindsers.blog/post/https-using-nginx-certbot-docker/
 https://medium.com/@agusnavce/nginx-server-with-ssl-certificates-with-lets-encrypt-in-docker-670caefc2e31
